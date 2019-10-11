@@ -1,0 +1,1 @@
+Hello this is Aldo's first kinda REAL git porject!
